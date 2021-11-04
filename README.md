@@ -1,3 +1,7 @@
 # OnlineStore
 My online shopping store
-Added
+
+#Dependencies
+-Python 3.8
+-Flask
+-Mongodb
